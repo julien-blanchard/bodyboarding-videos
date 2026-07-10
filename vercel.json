@@ -9,7 +9,7 @@
   "routes": [
     { 
       "src": "/css/(.*)", 
-      "dest": "/simplemin..css"
+      "dest": "/simple.min.css"
     },
     {
       "src": "/(.*)",
