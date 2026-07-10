@@ -9,7 +9,7 @@
   "routes": [
     { 
       "src": "/css/(.*)", 
-      "dest": "/html/digitalize/css/$1",
+      "dest": "/css/$1",
       "headers": {
         "cache-control": "public, max-age=31536000, immutable"
       }
