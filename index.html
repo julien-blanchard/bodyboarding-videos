@@ -202,7 +202,7 @@
         const createListOfTitles = (data,filter_by) => {
             let video_wrapper = document.getElementById(VIDEO_WRAPPER);
             let video_list_div = document.createElement("div");
-            video_list_div.setAttribute("id","video-list_div");
+            video_list_div.setAttribute("id","video-list-div");
             let video_list_header = document.createElement("h5");
             let video_list_header_text = document.createTextNode(`Videos matching the selection '${filter_by}':`);
             let video_list_ul = document.createElement("ul");
@@ -215,7 +215,7 @@
             for (let d of data) {
                 if (d["Tags"].includes(filter_by)) {
                     let video_title = d["Title"].replace("\END","");
-                    let video_id = `#video-table-${id_val.toString()}`;
+                    let video_id = `#video-header-${id_val.toString()}`;
                     let video_list_li = document.createElement("li");
                     let video_list_a = createLink(video_title,video_id,"internal");
                     video_list_li.appendChild(video_list_a);
@@ -225,15 +225,16 @@
             };
         };
 
-        const createHeader = (data) => {
+        const createHeader = (data,id_val) => {
+            let video_id = `video-header-${id_val.toString()}`;
             let video_wrapper = document.getElementById(VIDEO_WRAPPER);
             let video_header = document.createElement("h2");
             let video_sep = document.createElement("br");
             video_header.setAttribute("class","video-header");
+            video_header.setAttribute("id",video_id);
             let video_value = document.createTextNode(data.replace("\rEND",""));
             video_header.appendChild(video_value);
             video_wrapper.appendChild(video_header);
-            // video_wrapper.appendChild(video_sep);
         };
 
         const createTags = (data) => {
@@ -320,7 +321,7 @@
             createListOfTitles(data_as_json,filter_by);
             for (let d of data_as_json) {
                 if (d["Tags"].includes(filter_by)) {
-                    createHeader(d["Title"]);
+                    createHeader(d["Title"],val_to_increment);
                     createTags(d["Tags"]);
                     createTable(val_to_increment);
                     createTableHeader(val_to_increment);
