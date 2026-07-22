@@ -2959,7 +2959,303 @@ const data_as_json = [
 				"Beastie Boys",
 				"Sure Shot",
 				"https://www.discogs.com/master/20173-Beastie-Boys-Ill-Communication",
-				"https://www.youtube.com/watch?v=JhqyZeUlE8U"
+				"https://www.youtube.com/watch?v=JhqyZeUlE8U\r"
+			]
+		]
+	},
+	{
+		"Title": "Monkeys",
+		"Tags": [
+			"All",
+			"USA",
+			"Various",
+			"Jason Walcott",
+			"1997"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"Bad Religion",
+				"Part III",
+				"https://www.discogs.com/master/25526-Bad-Religion-How-Could-Hell-Be-Any-Worse",
+				"https://www.youtube.com/watch?v=u7H99LCVAVE\r"
+			],
+			[
+				"2",
+				"Brian Wise",
+				"Mad Caddies",
+				"Mum's The Word",
+				"https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core",
+				"https://www.youtube.com/watch?v=9AJ_O26xkFQ\r"
+			],
+			[
+				"3",
+				"Ross McBride",
+				"Ten Foot Pole",
+				"Hey Pete",
+				"https://www.discogs.com/master/262605-Ten-Foot-Pole-Unleashed",
+				"https://www.youtube.com/watch?v=HpIpEuinGUA\r"
+			],
+			[
+				"4",
+				"Drop-knee",
+				"Ill Repute",
+				"Stuck",
+				"https://www.discogs.com/master/469071-Satanic-Surfers-The-Almighty-Trigger-Happy-Ill-Repute-Good-Riddance-Strung-Out-As-A-Matter-Of-Fact",
+				"https://www.youtube.com/watch?v=hv3b2sdtixg\r"
+			],
+			[
+				"5",
+				"Jacob Reeves",
+				"The Bollweevils",
+				"Fence Sitter",
+				"https://www.discogs.com/master/365443-The-Bollweevils-Heavyweight",
+				"https://www.youtube.com/watch?v=GA9eCCALf2M\r"
+			],
+			[
+				"6",
+				"South Africans",
+				"Mad Caddies",
+				"Polyester Khakis",
+				"https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core",
+				"https://www.youtube.com/watch?v=4CncRyUldvQ\r"
+			],
+			[
+				"7",
+				"??",
+				"The Bollweevils",
+				"20 Something",
+				"https://www.discogs.com/master/365443-The-Bollweevils-Heavyweight",
+				"https://www.youtube.com/watch?v=gnc9rrChpbQ\r"
+			],
+			[
+				"8",
+				"Mike Stewart",
+				"Supernovice",
+				"Uno Mas",
+				"https://www.discogs.com/release/14750877-Supernovice-Well-Fed",
+				"https://www.youtube.com/watch?v=dkoYYiW_GJU\r"
+			],
+			[
+				"9",
+				"Australians",
+				"Mad Caddies",
+				"Cup O' Tea",
+				"https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core",
+				"https://www.youtube.com/watch?v=6cGNy5IYsNE\r"
+			],
+			[
+				"10",
+				"The Wedge",
+				"Limp",
+				"Clear Colors",
+				"https://www.discogs.com/master/334661-Limp-Pop-Disorderly",
+				"https://www.youtube.com/watch?v=e2vfBWApDgM\r"
+			],
+			[
+				"11",
+				"Hawaiians",
+				"Ten Foot Pole",
+				"What You Want",
+				"https://www.discogs.com/master/262605-Ten-Foot-Pole-Unleashed",
+				"https://www.youtube.com/watch?v=mPGzp9-uKTU\r"
+			],
+			[
+				"12",
+				"Phil Harnsberger",
+				"Bad Religion",
+				"Yesterday",
+				"https://www.discogs.com/master/177820-Bad-Religion-Back-To-The-Known",
+				"https://www.youtube.com/watch?v=pvQbHUfvAG8\r"
+			],
+			[
+				"13",
+				"Tamega",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"14",
+				"Mexico",
+				"??",
+				"??",
+				"https://www.discogs.com/master/2178085-Mealticket-13-Apologies",
+				"https://www.youtube.com/watch?v=Wa8cmBArOc8\r"
+			],
+			[
+				"15",
+				"??",
+				"Mad Caddies",
+				"L.G.'s",
+				"https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core",
+				"https://www.youtube.com/watch?v=vJq44y5kHuE\r"
+			],
+			[
+				"16",
+				"Hawaiians",
+				"Zoinks!",
+				"Pedestal",
+				"https://www.discogs.com/release/2118124-Zoinks-Stranger-Anxiety",
+				"https://www.youtube.com/watch?v=BMKTlnkMzec\r"
+			],
+			[
+				"17",
+				"Chad Barba",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"18",
+				"??",
+				"Mad Caddies",
+				"Crew Cut Chuck",
+				"https://www.discogs.com/master/324298-Mad-Caddies-Quality-Soft-Core",
+				"https://www.youtube.com/watch?v=TcCyDa0lDyE\r"
+			],
+			[
+				"19",
+				"Eric Eliason",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"20",
+				"Jeff Hubbard",
+				"The Bollweevils",
+				"Last Laugh",
+				"https://www.discogs.com/master/365443-The-Bollweevils-Heavyweight",
+				"https://www.youtube.com/watch?v=5EplJbW8f5A\r"
+			],
+			[
+				"21",
+				"Spencer Skipper",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"22",
+				"Credits",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			]
+		]
+	},
+	{
+		"Title": "Propaganda",
+		"Tags": [
+			"All",
+			"USA",
+			"Riders Of Tubes",
+			"Scott Aichner",
+			"1996"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"Pridebowl",
+				"Impropriety",
+				"https://www.discogs.com/master/710119-Pridebowl-Drippings-Of-The-Past",
+				"https://www.youtube.com/watch?v=2h4o9EvWD38\r"
+			],
+			[
+				"2",
+				"Propaganda",
+				"Strung Out",
+				"Firecracker",
+				"https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues",
+				"https://www.youtube.com/watch?v=7ojj0bgSfp8\r"
+			],
+			[
+				"3",
+				"Cabo San Lucas",
+				"Lagwagon",
+				"Violins",
+				"https://www.discogs.com/master/39369-Lagwagon-Hoss",
+				"https://www.youtube.com/watch?v=OyywwSZqVGg\r"
+			],
+			[
+				"4",
+				"Hawaii",
+				"Strung Out",
+				"Solitaire",
+				"https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues",
+				"https://www.youtube.com/watch?v=5ftdbDNbS6g\r"
+			],
+			[
+				"5",
+				"??",
+				"Passage 4",
+				"Somehow",
+				"https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock",
+				"https://www.youtube.com/watch?v=hHZ-0qSncYo\r"
+			],
+			[
+				"6",
+				"??",
+				"Lagwagon",
+				"Sick",
+				"https://www.discogs.com/master/39369-Lagwagon-Hoss",
+				"https://www.youtube.com/watch?v=UuHDz4bSwaI\r"
+			],
+			[
+				"7",
+				"Pipeline",
+				"Lagwagon",
+				"Riffle",
+				"https://www.discogs.com/master/39369-Lagwagon-Hoss",
+				"https://www.youtube.com/watch?v=Tj3aFXtW-lE\r"
+			],
+			[
+				"8",
+				"California",
+				"Strung Out",
+				"Six Feet",
+				"https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues",
+				"https://www.youtube.com/watch?v=vuRTm3SPTrU\r"
+			],
+			[
+				"9",
+				"Indonesia I",
+				"Turtlehead",
+				"Thought",
+				"https://www.discogs.com/release/3889932-Turtlehead-Back-Slapping-Praise-From-Back-Stabbing-Men",
+				"https://www.youtube.com/watch?v=7A2xIGO8ouQ\r"
+			],
+			[
+				"10",
+				"Indonesia II",
+				"Scarecrow",
+				"Dare To Speak",
+				"https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock",
+				"https://www.youtube.com/watch?v=pYtRVTsTXPM\r"
+			],
+			[
+				"11",
+				"Indonesia III",
+				"Snuff",
+				"Nick Northern",
+				"https://www.discogs.com/master/42239-Snuff-Demmamussabebonk",
+				"https://www.youtube.com/watch?v=aTtBUOYVKUc\r"
+			],
+			[
+				"12",
+				"Credits",
+				"Millencolin",
+				"Melancholy Protection",
+				"https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection",
+				"https://www.youtube.com/watch?v=qnsngNI-EPo"
 			]
 		]
 	}
