@@ -2894,7 +2894,7 @@ const data_as_json = [
 				"Sugar Ray",
 				"RPM",
 				"https://www.discogs.com/master/130855-Sugar-Ray-Floored",
-				"https://www.youtube.com/watch?v=xwEO2dVafv0&list=RDxwEO2dVafv0&start_radio=1\r"
+				"https://www.youtube.com/watch?v=xwEO2dVafv0\r"
 			],
 			[
 				"6",
@@ -3071,10 +3071,10 @@ const data_as_json = [
 			[
 				"13",
 				"Tamega",
-				"??",
-				"??",
-				"??",
-				"??\r"
+				"Rythm Collision",
+				"Jumpstart",
+				"https://www.discogs.com/release/2469221-Rhythm-Collision-Collision-Course",
+				"https://www.youtube.com/watch?v=qOrli7ZtZlc\r"
 			],
 			[
 				"14",
@@ -3103,10 +3103,10 @@ const data_as_json = [
 			[
 				"17",
 				"Chad Barba",
-				"??",
-				"??",
-				"??",
-				"??\r"
+				"Rythm Collision",
+				"Too Long",
+				"https://www.discogs.com/release/2469221-Rhythm-Collision-Collision-Course",
+				"https://www.youtube.com/watch?v=S74Kkh32g2s\r"
 			],
 			[
 				"18",
@@ -3119,10 +3119,10 @@ const data_as_json = [
 			[
 				"19",
 				"Eric Eliason",
-				"??",
-				"??",
-				"??",
-				"??\r"
+				"The Feds",
+				"Hard To Find",
+				"https://www.discogs.com/master/248175-The-Feds-Chicago-Bureau",
+				"[](https://www.youtube.com/watch?v=wLHLIczlFeQ\r"
 			],
 			[
 				"20",
@@ -3135,10 +3135,10 @@ const data_as_json = [
 			[
 				"21",
 				"Spencer Skipper",
-				"??",
-				"??",
-				"??",
-				"??\r"
+				"The Feds",
+				"Heard It Said",
+				"https://www.discogs.com/master/248175-The-Feds-Chicago-Bureau",
+				"https://www.youtube.com/watch?v=btOORkO09Wg\r"
 			],
 			[
 				"22",
