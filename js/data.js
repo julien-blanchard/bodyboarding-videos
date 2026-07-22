@@ -2069,8 +2069,8 @@ const data_as_json = [
 				"Tony Boy Part II",
 				"??",
 				"??",
-				"",
-				"\r"
+				"??",
+				"??\r"
 			],
 			[
 				"13",
@@ -2800,8 +2800,7 @@ const data_as_json = [
 				"15",
 				"Harnsberger & Reeves",
 				"7 Seconds",
-				"Walk Together",
-				" Rock Together",
+				"Walk Together Rock Together",
 				"https://www.discogs.com/master/17273-7-Seconds-Walk-Together-Rock-Together",
 				"https://www.youtube.com/watch?v=ImnNtwKPODc\r"
 			],
