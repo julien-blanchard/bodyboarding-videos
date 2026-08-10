@@ -345,8 +345,7 @@ const data_as_json = [
 				"3",
 				"Hot Waves Cool Babes",
 				"The Poppin' Mommas",
-				"Hot Waves",
-				" Cool Babes",
+				"Hot Waves Cool Babes",
 				"https://www.discogs.com/release/2935343-Poppin-Mommas-Sheltered-Workshop",
 				"Contact me\r"
 			],
