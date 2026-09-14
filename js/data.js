@@ -607,8 +607,7 @@ const data_as_json = [
 			],
 			[
 				"9",
-				"Ronk",
-				" Wiseguy and Benny",
+				"Ronk Wiseguy and Benny",
 				"Wigwam",
 				"Keeper of the Cheese",
 				"??",
