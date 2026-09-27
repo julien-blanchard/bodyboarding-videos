@@ -1610,7 +1610,6 @@ const data_as_json = [
 				"Eppo",
 				"Frenzal Rhomb",
 				"T.N.T",
-				"",
 				"https://www.discogs.com/release/4365158-Various-Fuse-Box-The-Alternative-Tribute",
 				"https://www.youtube.com/watch?v=4Ekad8Ksv4U\r"
 			],
