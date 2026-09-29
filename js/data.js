@@ -95,7 +95,7 @@ const data_as_json = [
 				"Cartoon Horrors",
 				"Something to Say",
 				"??",
-				"??\r"
+				"Contact me\r"
 			]
 		]
 	},
@@ -1395,7 +1395,7 @@ const data_as_json = [
 				"Pryme Moover",
 				"Happy Ending",
 				"https://www.discogs.com/release/33857505-Various-Indie-NSW-Volume-1",
-				"??\r"
+				"Contact me\r"
 			]
 		]
 	},
