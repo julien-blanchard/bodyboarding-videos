@@ -1651,7 +1651,7 @@ const data_as_json = [
 			],
 			[
 				"3",
-				"Gorilla Grip (ad",
+				"Gorilla Grip ad",
 				"??",
 				"??",
 				"??",
@@ -1659,7 +1659,7 @@ const data_as_json = [
 			],
 			[
 				"4",
-				"Full Bore (ad",
+				"Full Bore ad",
 				"??",
 				"??",
 				"??",
@@ -1675,7 +1675,7 @@ const data_as_json = [
 			],
 			[
 				"6",
-				"Ocean & Earth (ad",
+				"Ocean & Earth ad",
 				"??",
 				"??",
 				"??",
@@ -1683,7 +1683,7 @@ const data_as_json = [
 			],
 			[
 				"7",
-				"Sponge-Rez (ad",
+				"Sponge-Rez ad",
 				"??",
 				"??",
 				"??",
@@ -1707,7 +1707,7 @@ const data_as_json = [
 			],
 			[
 				"10",
-				"Manta (ad",
+				"Manta ad",
 				"??",
 				"??",
 				"??",
@@ -1715,7 +1715,7 @@ const data_as_json = [
 			],
 			[
 				"11",
-				"Kuta Lines (ad",
+				"Kuta Lines ad",
 				"??",
 				"??",
 				"??",
@@ -2232,6 +2232,262 @@ const data_as_json = [
 				"No Ka Oi",
 				"https://www.discogs.com/master/3922495-Unit-101-Unit-101",
 				"https://www.youtube.com/watch?v=xqd3dAqIjOw\r"
+			]
+		]
+	},
+	{
+		"Title": "The Ultimate Wave Riding Vehicle",
+		"Tags": [
+			"All",
+			"USA",
+			"Bodyboarders Video Magazine",
+			"Tom Boyle",
+			"1994"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"The Offspring",
+				"Come Out And Play",
+				"https://www.discogs.com/master/77217-Offspring-Smash",
+				"https://www.youtube.com/watch?v=GHUql3OC_uU\r"
+			],
+			[
+				"2",
+				"Tumbleland",
+				"The Offspring",
+				"Gotta Get Away",
+				"https://www.discogs.com/master/77217-Offspring-Smash",
+				"https://www.youtube.com/watch?v=vSEUJHZDppo\r"
+			],
+			[
+				"3",
+				"Hurricane Emilia",
+				"The Offspring",
+				"Nitro",
+				"https://www.discogs.com/master/77217-Offspring-Smash",
+				"https://www.youtube.com/watch?v=U4EpeupWr-c\r"
+			],
+			[
+				"4",
+				"Ala Moana Bowls / Kainoa McGee",
+				"Sugartooth",
+				"Barrel",
+				"https://www.discogs.com/release/9530832-Sugartooth-Sugartooth",
+				"https://www.youtube.com/watch?v=9Y3hE82IzuE\r"
+			],
+			[
+				"5",
+				"Women Wave Warriors",
+				"Sonith Youth",
+				"Bull In The Heather",
+				"https://www.discogs.com/release/370547-Sonic-Youth-Experimental-Jet-Set-Trash-And-No-Star",
+				"https://www.youtube.com/watch?v=8JGBNkLM9_8\r"
+			],
+			[
+				"6",
+				"Half Point",
+				"Down By Law",
+				"Surf Punk",
+				"https://www.discogs.com/release/620136-Down-By-Law-Down-By-Law",
+				"https://www.youtube.com/watch?v=ewWFGxpBDgo\r"
+			],
+			[
+				"7",
+				"Ben Severson",
+				"Sugartooth",
+				"Tuesday Morning",
+				"https://www.discogs.com/release/9530832-Sugartooth-Sugartooth",
+				"https://www.youtube.com/watch?v=Wvt7pB_qyqE\r"
+			],
+			[
+				"8",
+				"Eppo Visits The Flowrider",
+				"The Offspring",
+				"Self-Esteem",
+				"https://www.discogs.com/master/77217-Offspring-Smash",
+				"https://www.youtube.com/watch?v=EtNZnhxWLHo\r"
+			],
+			[
+				"9",
+				"Chris Won",
+				"Excel",
+				"The Stranger",
+				"https://www.discogs.com/master/99959-Excel-The-Jokes-On-You",
+				"https://www.youtube.com/watch?v=cmSy0dDIfCI\r"
+			],
+			[
+				"10",
+				"Mike Stewart",
+				"Sugartooth",
+				"Leave My Soul To Rest",
+				"https://www.discogs.com/release/9530832-Sugartooth-Sugartooth",
+				"https://www.youtube.com/watch?v=MMlsxWWEo7A\r"
+			],
+			[
+				"11",
+				"Aka Lyman",
+				"The Offspring",
+				"Dirty Magic",
+				"https://www.discogs.com/master/77211-The-Offspring-Ignition",
+				"https://www.youtube.com/watch?v=_5coMysALYg\r"
+			],
+			[
+				"12",
+				"Sandy Beach",
+				"The Offspring",
+				"Something To Believe In",
+				"https://www.discogs.com/master/77217-Offspring-Smash",
+				"https://www.youtube.com/watch?v=NckxL3ShTCY\r"
+			],
+			[
+				"13",
+				"Alex De Pontes / Tamega",
+				"Sugartooth",
+				"Sold My Fortune",
+				"https://www.discogs.com/release/9530832-Sugartooth-Sugartooth",
+				"https://www.youtube.com/watch?v=9se4X3vHATo\r"
+			],
+			[
+				"14",
+				"Coming Next Edition",
+				"Tourniquet",
+				"Devastating Wind",
+				"https://www.discogs.com/master/432244-Tourniquet-Psycho-Surgery",
+				"https://www.youtube.com/watch?v=egbhTXgqOzE\r"
+			]
+		]
+	},
+	{
+		"Title": "Violent Grace",
+		"Tags": [
+			"All",
+			"USA",
+			"Bodyboarders Video Magazine",
+			"Tom Boyle",
+			"1995"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"Tourniquet",
+				"Devastating Wind",
+				"https://www.discogs.com/master/432244-Tourniquet-Psycho-Surgery",
+				"https://www.youtube.com/watch?v=egbhTXgqOzE\r"
+			],
+			[
+				"2",
+				"The Brat Pack",
+				"Nofx",
+				"My Heart Is Yearning",
+				"https://www.discogs.com/master/24592-NOFX-Punk-In-Drublic",
+				"https://www.youtube.com/watch?v=C7u5dc10Suc\r"
+			],
+			[
+				"3",
+				"Fred Booth",
+				"Unit 101",
+				"I'm So Beautiful",
+				"https://www.discogs.com/artist/3331620-Unit-101",
+				"??\r"
+			],
+			[
+				"4",
+				"Mexico",
+				"The Offspring",
+				"Get It Right",
+				"https://www.discogs.com/master/77211-The-Offspring-Ignition",
+				"https://www.youtube.com/watch?v=Poz4BPdBH2Y\r"
+			],
+			[
+				"5",
+				"Cavin Yap",
+				"Dag Nasty",
+				"Roger",
+				"https://www.discogs.com/master/16971-Dag-Nasty-Four-On-The-Floor",
+				"https://www.youtube.com/watch?v=jMbZNOgAsoE\r"
+			],
+			[
+				"6",
+				"Mike Stewart",
+				"Rich Kids On LSD",
+				"Scab On My Brain",
+				"https://www.discogs.com/master/16728-Rich-Kids-On-LSD-Rock-N-Roll-Nightmare",
+				"https://www.youtube.com/watch?v=VttCMirbzlE\r"
+			],
+			[
+				"7",
+				"Local Boyz",
+				"Optimum Fury",
+				"??",
+				"https://www.discogs.com/artist/7529423-Optimum-Fury",
+				"??\r"
+			],
+			[
+				"8",
+				"Western Australia part I",
+				"Sons Of Elvis",
+				"These Days",
+				"https://www.discogs.com/master/369517-Sons-Of-Elvis-Glodean",
+				"https://www.youtube.com/watch?v=VhLn3X6m4yU\r"
+			],
+			[
+				"9",
+				"Western Australia part II",
+				"The Offspring",
+				"Kick Him When He's Down",
+				"https://www.discogs.com/master/77211-The-Offspring-Ignition",
+				"https://www.youtube.com/watch?v=bGrArOTPbAg\r"
+			],
+			[
+				"10",
+				"The Box",
+				"Optimum Fury",
+				"??",
+				"https://www.discogs.com/artist/7529423-Optimum-Fury",
+				"??\r"
+			],
+			[
+				"11",
+				"Team North Shore",
+				"Down By Law",
+				"Break The Walls",
+				"https://www.discogs.com/master/130204-Down-By-Law-Blue",
+				"https://www.youtube.com/watch?v=MyY3Hqemqtk\r"
+			],
+			[
+				"12",
+				"The Aussies",
+				"The Offspring",
+				"Hypodermic",
+				"https://www.discogs.com/master/77211-The-Offspring-Ignition",
+				"https://www.youtube.com/watch?v=2PpxJb1VgmM\r"
+			],
+			[
+				"13",
+				"Leading The Way For California",
+				"Rich Kids On LSD",
+				"Insane",
+				"https://www.discogs.com/master/220168-RKL-Reactivate",
+				"https://www.youtube.com/watch?v=5CJZUJ83vxY\r"
+			],
+			[
+				"14",
+				"Team Psycho",
+				"Down By Law",
+				"Rain",
+				"https://www.discogs.com/master/130204-Down-By-Law-Blue",
+				"https://www.youtube.com/watch?v=Dfv0GMnMZzM\r"
+			],
+			[
+				"15",
+				"Credits",
+				"Sons Of Elvis",
+				"The Creeper",
+				"https://www.discogs.com/master/369517-Sons-Of-Elvis-Glodean",
+				"https://www.youtube.com/watch?v=IMKjf9buLO0\r"
 			]
 		]
 	},
