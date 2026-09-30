@@ -1626,6 +1626,7 @@ const data_as_json = [
 	{
 		"Title": "Contortion",
 		"Tags": [
+			"All",
 			"Australia",
 			"Various",
 			"Bill McCausland",
