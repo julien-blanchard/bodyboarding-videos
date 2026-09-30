@@ -74,6 +74,7 @@
                     <p>Series</p>
                     <button id="button-ut">Underground Tapes</button>
                     <button id="button-rot">Riders of Tubes</button>
+                    <button id="button-bvm">Bodyboarders Video Magazine</button>
                     <button id="button-various">Various</button>
                 </details>
             </div>
@@ -151,8 +152,8 @@
             <h2 id="section-changelog">Changelog & Roadmap</h2>
             <div>
                 <ul>
-                    <li><code>Soon (2026)</code> &emsp; Purchase a domain.</li>
                     <li><code>Soon (2026)</code> &emsp; Ditch <mark>TypeScript</mark> and rewrite the main script in <mark>Nim</mark>.</li>
+                    <li><code>2026-08-12</code> &emsp; .com domain purchased.</li>
                     <li><code>2026-07-11</code> &emsp; The webpage is now live on <mark>Vercel</mark>.</li>
                     <li><code>2026-07-11</code> &emsp; New <a href="" target="_blank">GitHub repo</a> for the project.</li>
                     <li><code>2026-07-07</code> &emsp; Code cleanup / optimisation.</li>
@@ -174,6 +175,7 @@
         const button_usa = document.getElementById("button-usa");
         const button_ut = document.getElementById("button-ut");
         const button_rot = document.getElementById("button-rot");
+        const button_bvm = document.getElementById("button-bvm");
         const button_various = document.getElementById("button-various");
 
         const runAll = (filter_by) => {
@@ -197,9 +199,9 @@
         button_none.addEventListener("click",clearUserInput);
         button_australia.addEventListener("click",() => runAll("Australia"));
         button_usa.addEventListener("click",() => runAll("USA"));
-        // button_other.addEventListener("click",() => runAll("Other"));
         button_ut.addEventListener("click",() => runAll("Underground Tapes"));
         button_rot.addEventListener("click",() => runAll("Riders Of Tubes"));
+        button_bvm.addEventListener("click",() => runAll("Bodyboarders Video Magazine"));
         button_various.addEventListener("click",() => runAll("Various"));
 
         runAll("All");
