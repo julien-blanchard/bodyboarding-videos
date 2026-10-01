@@ -1699,7 +1699,7 @@ const data_as_json = [
 			],
 			[
 				"9",
-				"Australian Bodyboarder (ad",
+				"Australian Bodyboarder ad",
 				"??",
 				"??",
 				"??",
@@ -2236,6 +2236,154 @@ const data_as_json = [
 		]
 	},
 	{
+		"Title": "R.O.T. Hoff Pro 1996",
+		"Tags": [
+			"All",
+			"USA",
+			"Riders Of Tubes",
+			"Sean Manning",
+			"1996"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Intro",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"2",
+				"Opening",
+				"Pridebowl",
+				"Hate-Wrinkled",
+				"https://www.discogs.com/release/1963668-Pridebowl-The-Soft-Song",
+				"https://www.youtube.com/watch?v=zcPhYHsnCHc\r"
+			],
+			[
+				"3",
+				"??",
+				"One Chord Wonders",
+				"Summer Is The Time To Be",
+				"https://www.discogs.com/release/1445740-Various-Epitone-Various-Swe-Skatecore",
+				"https://www.youtube.com/watch?v=B7N57GMsamc\r"
+			],
+			[
+				"4",
+				"??",
+				"Satanic Surfers",
+				"Waves of Blood",
+				"https://www.discogs.com/release/1445740-Various-Epitone-Various-Swe-Skatecore",
+				"https://www.youtube.com/watch?v=wWyQzLS5tQU\r"
+			],
+			[
+				"5",
+				"??",
+				"Me First And The Gimme Gimmes",
+				"Country Roads",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=066SFOZhaXg\r"
+			],
+			[
+				"6",
+				"??",
+				"Nofx",
+				"Vincent",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=t-7QckETifk\r"
+			],
+			[
+				"7",
+				"??",
+				"Turtlehead",
+				"Go",
+				"https://www.discogs.com/release/3889932-Turtlehead-Back-Slapping-Praise-From-Back-Stabbing-Men",
+				"https://www.youtube.com/watch?v=sd_tR9Q1Ee8\r"
+			],
+			[
+				"8",
+				"Prelims",
+				"Pridebowl",
+				"The Soft Song",
+				"https://www.discogs.com/release/1963668-Pridebowl-The-Soft-Song",
+				"https://www.youtube.com/watch?v=zpz97JHdRpA\r"
+			],
+			[
+				"9",
+				"Main Event",
+				"Snuff",
+				"Nick Northern",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=Bq5atQXbsvk\r"
+			],
+			[
+				"10",
+				"Round 2",
+				"Pridebowl",
+				"Remnants",
+				"https://www.discogs.com/release/1963668-Pridebowl-The-Soft-Song",
+				"https://www.youtube.com/watch?v=5G-jyqwTCXE\r"
+			],
+			[
+				"11",
+				"Round 3",
+				"Lagwagon",
+				"Sleep",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=IZcqyRo4OgU\r"
+			],
+			[
+				"12",
+				"Round 4",
+				"Slobax",
+				"Days Like This",
+				"https://www.discogs.com/release/1243205-Various-Quality-Punk-Rock",
+				"https://www.youtube.com/watch?v=s2E87gt5x5Y\r"
+			],
+			[
+				"13",
+				"Quarter Finals",
+				"Soul Scream",
+				"Beat Around The Bush",
+				"https://www.discogs.com/release/26848463-Soul-Scream-Mister-Sunshine",
+				"https://www.youtube.com/watch?v=FEj6x6vYzAo\r"
+			],
+			[
+				"14",
+				"??",
+				"Frenzal Rhomb",
+				"Run",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=3l0hqux8rms\r"
+			],
+			[
+				"15",
+				"Semi Finals",
+				"Tilt",
+				"Libel",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=xCbwClU9vS0\r"
+			],
+			[
+				"16",
+				"Final",
+				"Strung Out",
+				"Wrong Side Of The Tracks",
+				"https://www.discogs.com/master/109002-Strung-Out-Suburban-Teenage-Wasteland-Blues",
+				"https://www.youtube.com/watch?v=V15TUYlXprM\r"
+			],
+			[
+				"17",
+				"Credits",
+				"Wizo",
+				"Tod Im Freibad",
+				"https://www.discogs.com/master/61615-WIZO-UUAARRGH",
+				"https://www.youtube.com/watch?v=ffXE9HOTQiY\r"
+			]
+		]
+	},
+	{
 		"Title": "The Ultimate Wave Riding Vehicle",
 		"Tags": [
 			"All",
@@ -2620,6 +2768,114 @@ const data_as_json = [
 				"Lock Step & Gone",
 				"https://www.discogs.com/release/396440-Rancid-And-Out-Come-The-Wolves",
 				"https://www.youtube.com/watch?v=O-vzicKAUTY\r"
+			]
+		]
+	},
+	{
+		"Title": "Cereal Killer",
+		"Tags": [
+			"All",
+			"USA",
+			"Bodyboarders Video Magazine",
+			"Tom Boyle",
+			"1997"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Robbie Crawford King Of Hop",
+				"Tourniquet",
+				"K517",
+				"https://www.discogs.com/master/931055-Tourniquet-Vanishing-Lessons",
+				"https://www.youtube.com/watch?v=TqW9QEeLuiU\r"
+			],
+			[
+				"2",
+				"Opening",
+				"Tourniquet",
+				"Vanishing Lessons",
+				"https://www.discogs.com/master/931055-Tourniquet-Vanishing-Lessons",
+				"https://www.youtube.com/watch?v=BcfKCClwigs\r"
+			],
+			[
+				"3",
+				"Brian Wise",
+				"Gas Huffer",
+				"Sixty Three Hours",
+				"https://www.discogs.com/master/70674-Gas-Huffer-The-Inhuman-Ordeal-Of-Special-Agent-Gas-Huffer",
+				"https://www.youtube.com/watch?v=Izz6Bni1KLA\r"
+			],
+			[
+				"4",
+				"Seamas Mercado",
+				"Noise Box",
+				"Monkey Ass",
+				"https://www.discogs.com/master/29981-Noise-Box-Monkey-Ass",
+				"https://www.youtube.com/watch?v=FgZLiLKjYd0\r"
+			],
+			[
+				"5",
+				"Crispin Hughes",
+				"Directions In Groove",
+				"Two-Way Dreamtime",
+				"https://www.discogs.com/master/645639-Directions-In-Groove-Dig-Deeper",
+				"https://www.youtube.com/watch?v=rbbP1o8crO4\r"
+			],
+			[
+				"6",
+				"??",
+				"Sense Field",
+				"Overstand",
+				"https://www.discogs.com/master/135395-Sense-Field-Building",
+				"https://www.youtube.com/watch?v=cxFcgLbDsVM\r"
+			],
+			[
+				"7",
+				"Chris Taloa Won",
+				"Primus",
+				"Tommy The Cat",
+				"https://www.discogs.com/master/17912-Primus-Sailing-The-Seas-Of-Cheese",
+				"https://www.youtube.com/watch?v=r4OhIU-PmB8\r"
+			],
+			[
+				"8",
+				"Ben Severson",
+				"White Zombie",
+				"Real Solution #9",
+				"https://www.discogs.com/master/39780-White-Zombie-Astro-Creep-2000-Songs-Of-Love-Destruction-And-Other-Synthetic-Delusions-Of-The-Electri",
+				"https://www.youtube.com/watch?v=Cvlpktjsq0A\r"
+			],
+			[
+				"9",
+				"Spencer Skipper",
+				"Steve Stevens",
+				"The Savage",
+				"https://www.discogs.com/master/455479-Various-Twang-A-Tribute-To-Hank-Marvin-The-Shadows",
+				"https://www.youtube.com/watch?v=wG6jf5LDWN0\r"
+			],
+			[
+				"10",
+				"??",
+				"Marilyn Manson",
+				"Lunch Box",
+				"https://www.discogs.com/master/17936-Marilyn-Manson-Portrait-Of-An-American-Family",
+				"https://www.youtube.com/watch?v=PRFJoUBP54o\r"
+			],
+			[
+				"11",
+				"French Polynesia",
+				"Razed In Black",
+				"Power",
+				"https://www.discogs.com/master/29797-Razed-In-Black-Shrieks-Laments-And-Anguished-Cries",
+				"https://www.youtube.com/watch?v=grOTiQ5VUqc\r"
+			],
+			[
+				"12",
+				"Credits & Kyle Maligro",
+				"Pspazz",
+				"Feel The Rhythm",
+				"https://www.discogs.com/master/1714399-Pspazz-Missile-Toe",
+				"https://www.youtube.com/watch?v=pqlBswg4Nqs\r"
 			]
 		]
 	},
