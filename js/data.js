@@ -2280,7 +2280,7 @@ const data_as_json = [
 			[
 				"5",
 				"Women Wave Warriors",
-				"Sonith Youth",
+				"Sonic Youth",
 				"Bull In The Heather",
 				"https://www.discogs.com/release/370547-Sonic-Youth-Experimental-Jet-Set-Trash-And-No-Star",
 				"https://www.youtube.com/watch?v=8JGBNkLM9_8\r"
@@ -2488,6 +2488,138 @@ const data_as_json = [
 				"The Creeper",
 				"https://www.discogs.com/master/369517-Sons-Of-Elvis-Glodean",
 				"https://www.youtube.com/watch?v=IMKjf9buLO0\r"
+			]
+		]
+	},
+	{
+		"Title": "Core",
+		"Tags": [
+			"All",
+			"USA",
+			"Bodyboarders Video Magazine",
+			"Tom Boyle",
+			"1996"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"SNFU",
+				"My Mold Collection",
+				"https://www.discogs.com/master/80620-SNFU-The-One-Voted-Most-Likely-To-Succeed",
+				"https://www.youtube.com/watch?v=imaZSe6pPuE\r"
+			],
+			[
+				"2",
+				"Shack Island",
+				"Rancid",
+				"Junkie Man",
+				"https://www.discogs.com/release/396440-Rancid-And-Out-Come-The-Wolves",
+				"https://www.youtube.com/watch?v=gXXT2KvhwZs\r"
+			],
+			[
+				"3",
+				"Lanson Ronquillio",
+				"Ten Foot Pole",
+				"Racer X",
+				"https://www.discogs.com/master/700272-Ten-Foot-Pole-Swill",
+				"https://www.youtube.com/watch?v=dm1Z9Td4tqo\r"
+			],
+			[
+				"4",
+				"Chris Burkhart",
+				"Dread Ashanti",
+				"Mok's Song",
+				"https://www.discogs.com/release/19299340-Dread-Ashanti-Rising",
+				"https://www.youtube.com/watch?v=hJ117IdEROk\r"
+			],
+			[
+				"5",
+				"Paul Roach",
+				"DFL",
+				"Good Cop Bad Cop",
+				"https://www.discogs.com/master/615230-Dead-Fucking-Last-Proud-To-Be",
+				"https://www.youtube.com/watch?v=UofAYCFve9c\r"
+			],
+			[
+				"6",
+				"Guilherme Tamega",
+				"Pennywise",
+				"Searching",
+				"https://www.discogs.com/master/44000-Pennywise-About-Time",
+				"https://www.youtube.com/watch?v=scU42jRlIqU\r"
+			],
+			[
+				"7",
+				"Brown Water Big Bombs",
+				"Dread Ashanti",
+				"Voices",
+				"https://www.discogs.com/release/19299340-Dread-Ashanti-Rising",
+				"https://www.youtube.com/watch?v=Gh8s5KhTJhA\r"
+			],
+			[
+				"8",
+				"Kaimoa McGee",
+				"Bonecrusher",
+				"American Psycho",
+				"https://www.discogs.com/master/291517-Bonecrusher-World-Of-Pain",
+				"https://www.youtube.com/watch?v=0B3EAGZGXRQ\r"
+			],
+			[
+				"9",
+				"Fly's",
+				"Pennywise",
+				"No Reason Why",
+				"https://www.discogs.com/release/380664-Pennywise-Pennywise",
+				"https://www.youtube.com/watch?v=xCrwzUjaJfE\r"
+			],
+			[
+				"10",
+				"Outer Island Locals",
+				"Dread Ashanti",
+				"00 Dread",
+				"https://www.discogs.com/release/19299340-Dread-Ashanti-Rising",
+				"https://legacy.reverbnation.com/dreadashanti/song/6834712\r"
+			],
+			[
+				"11",
+				"Durban Home Movies",
+				"DFL",
+				"S.B.C.G.",
+				"https://www.discogs.com/master/615230-Dead-Fucking-Last-Proud-To-Be",
+				"https://www.youtube.com/watch?v=8YpJlKTaXNY\r"
+			],
+			[
+				"12",
+				"Gordon Cockwell & Billy Thiel",
+				"DFL",
+				"Home Is Where The Heart Is",
+				"https://www.discogs.com/master/615230-Dead-Fucking-Last-Proud-To-Be",
+				"https://www.youtube.com/watch?v=h5bXWm1zI4g\r"
+			],
+			[
+				"13",
+				"Hell Aussies",
+				"Voodoo Glow Skulls",
+				"Trouble Walking",
+				"https://www.discogs.com/master/39315-Voodoo-Glow-Skulls-Firme",
+				"https://www.youtube.com/watch?v=aKi0DwuT-Hs\r"
+			],
+			[
+				"14",
+				"Credits",
+				"The Vandals",
+				"Lady Killer",
+				"https://www.discogs.com/master/297512-The-Vandals-Sweatin-To-The-Oldies-The-Vandals-Live",
+				"https://www.youtube.com/watch?v=IXKy9ioffjk\r"
+			],
+			[
+				"15",
+				"West Coast Homeboys",
+				"Rancid",
+				"Lock Step & Gone",
+				"https://www.discogs.com/release/396440-Rancid-And-Out-Come-The-Wolves",
+				"https://www.youtube.com/watch?v=O-vzicKAUTY\r"
 			]
 		]
 	},

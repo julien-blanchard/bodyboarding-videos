@@ -117,6 +117,10 @@ const createTableRows = (id_val, row_vals) => {
                 let t_value = createLink("Bandcamp",r,"external");
                 td.appendChild(t_value);
             }
+            else if (r.includes("reverbnation")) {
+                let t_value = createLink("ReverbNation",r,"external");
+                td.appendChild(t_value);
+            }
             else {
                 let t_value = document.createTextNode(r);
                 td.appendChild(t_value);
