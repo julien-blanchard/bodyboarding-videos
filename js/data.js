@@ -2707,7 +2707,7 @@ const data_as_json = [
 			],
 			[
 				"8",
-				"Kaimoa McGee",
+				"Kainoa McGee",
 				"Bonecrusher",
 				"American Psycho",
 				"https://www.discogs.com/master/291517-Bonecrusher-World-Of-Pain",
