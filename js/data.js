@@ -2096,6 +2096,122 @@ const data_as_json = [
 		]
 	},
 	{
+		"Title": "R.O.T. 4",
+		"Tags": [
+			"All",
+			"USA",
+			"Riders Of Tubes",
+			"Sean Manning",
+			"1997"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Intro",
+				"Pridebowl",
+				"Hope",
+				"https://www.discogs.com/master/682319-Pridebowl-Yesterdays-End",
+				"https://www.youtube.com/watch?v=n50PRUP3JS0\r"
+			],
+			[
+				"2",
+				"Opening",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"3",
+				"Big Wedge",
+				"Assorted Jelly Beans",
+				"Braindead",
+				"https://www.discogs.com/master/237121-Assorted-Jelly-Beans-Assorted-Jelly-Beans",
+				"https://www.youtube.com/watch?v=ZsxjOp6RXO0\r"
+			],
+			[
+				"4",
+				"Brian Wise",
+				"Nofx",
+				"Drugs Are Good",
+				"https://www.discogs.com/master/849918-NOFX-45-Or-46-Songs-That-Werent-Good-Enough-To-Go-On-Our-Other-Records",
+				"https://www.youtube.com/watch?v=FqzyBW1u7OA\r"
+			],
+			[
+				"5",
+				"Phil Harnsberger & Jacob Reeves",
+				"Millencolin",
+				"In A Room",
+				"https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection",
+				"https://www.youtube.com/watch?v=7wdA9Wxl5gw\r"
+			],
+			[
+				"6",
+				"Reunion Island South Pacific",
+				"Homegrown",
+				"Hidden Track",
+				"https://www.discogs.com/master/313896-Home-Grown-Thats-Business",
+				"??\r"
+			],
+			[
+				"7",
+				"Fred Booth",
+				"Less Than Jake",
+				"Krazy Glue",
+				"https://www.discogs.com/master/237762-Less-Than-Jake-Losing-Streak",
+				"https://www.youtube.com/watch?v=YZrCRy2pnDo\r"
+			],
+			[
+				"8",
+				"??",
+				"311",
+				"Gap",
+				"https://www.discogs.com/release/34525279-311-311",
+				"https://www.youtube.com/watch?v=cbmxKsW0jZg\r"
+			],
+			[
+				"9",
+				"??",
+				"Reset",
+				"Concern",
+				"https://www.discogs.com/master/798977-Reset-No-Worries",
+				"https://www.youtube.com/watch?v=jSaOrGqemmA\r"
+			],
+			[
+				"10",
+				"The Wedge",
+				"Tilt",
+				"Libel",
+				"https://www.discogs.com/release/527522-Various-Survival-Of-The-Fattest",
+				"https://www.youtube.com/watch?v=xCbwClU9vS0\r"
+			],
+			[
+				"11",
+				"Paul Roach & Tim Ross",
+				"Napalm Death",
+				"Greed Killing",
+				"https://www.discogs.com/release/1986571-Napalm-Death-Diatribes",
+				"https://www.youtube.com/watch?v=rLQvYoeqhfo\r"
+			],
+			[
+				"12",
+				"Pipeline",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"13",
+				"Credits",
+				"The Queers",
+				"From Your Boy",
+				"https://www.discogs.com/master/50105-The-Queers-Move-Back-Home",
+				"https://www.youtube.com/watch?v=qZkbOv-K0Fc\r"
+			]
+		]
+	},
+	{
 		"Title": "R.O.T. 808",
 		"Tags": [
 			"All",
