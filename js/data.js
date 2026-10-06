@@ -1336,7 +1336,7 @@ const data_as_json = [
 			[
 				"5",
 				"Texas",
-				"??",
+				"Mescaline",
 				"??",
 				"??",
 				"??\r"
@@ -1354,7 +1354,7 @@ const data_as_json = [
 				"Heavy Water",
 				"Universal Workshop",
 				"What's so Funny",
-				"??",
+				"https://www.discogs.com/release/10905661-Various-Filth-Compilation",
 				"https://www.youtube.com/watch?v=n3SD8pDxqls\r"
 			],
 			[
@@ -1651,7 +1651,7 @@ const data_as_json = [
 			],
 			[
 				"3",
-				"Gorilla Grip ad",
+				"Gorilla Grip - Ad",
 				"??",
 				"??",
 				"??",
@@ -1659,7 +1659,7 @@ const data_as_json = [
 			],
 			[
 				"4",
-				"Full Bore ad",
+				"Full Bore - Ad",
 				"??",
 				"??",
 				"??",
@@ -1675,7 +1675,7 @@ const data_as_json = [
 			],
 			[
 				"6",
-				"Ocean & Earth ad",
+				"Ocean & Earth - Ad",
 				"??",
 				"??",
 				"??",
@@ -1683,7 +1683,7 @@ const data_as_json = [
 			],
 			[
 				"7",
-				"Sponge-Rez ad",
+				"Sponge-Rez - Ad",
 				"??",
 				"??",
 				"??",
@@ -1699,7 +1699,7 @@ const data_as_json = [
 			],
 			[
 				"9",
-				"Australian Bodyboarder ad",
+				"Australian Bodyboarder - Ad",
 				"??",
 				"??",
 				"??",
@@ -1715,7 +1715,7 @@ const data_as_json = [
 			],
 			[
 				"11",
-				"Kuta Lines ad",
+				"Kuta Lines - Ad",
 				"??",
 				"??",
 				"??",
@@ -3736,7 +3736,7 @@ const data_as_json = [
 		]
 	},
 	{
-		"Title": "Class Of 99",
+		"Title": "Rush: Class Of 99",
 		"Tags": [
 			"All",
 			"Australia",
@@ -4143,7 +4143,99 @@ const data_as_json = [
 				"Millencolin",
 				"Melancholy Protection",
 				"https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection",
-				"https://www.youtube.com/watch?v=qnsngNI-EPo"
+				"https://www.youtube.com/watch?v=qnsngNI-EPo\r"
+			]
+		]
+	},
+	{
+		"Title": "The Contest",
+		"Tags": [
+			"All",
+			"Australia",
+			"Various",
+			"Tim Bonython",
+			"1997"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Australian Bodyboarder Magazine - Ad",
+				"Frenzal Rhomb",
+				"Genius",
+				"https://www.discogs.com/master/1851777-Frenzal-Rhomb-Coughing-Up-A-Storm",
+				"https://www.youtube.com/watch?v=BXzBo5fraoI\r"
+			],
+			[
+				"2",
+				"Opening",
+				"The Mark Of Cain",
+				"Interloper - Who Made Who Mix",
+				"https://www.discogs.com/master/1588014-The-Mark-Of-Cain-Rock-And-Roll",
+				"https://www.youtube.com/watch?v=v69xPZfwjfg\r"
+			],
+			[
+				"3",
+				"Day 1",
+				"White Zombie",
+				"El Phantasmo And The Chicken-Run Blast-O-Rama",
+				"https://www.discogs.com/master/39780-White-Zombie-Astro-Creep-2000-Songs-Of-Love-Destruction-And-Other-Synthetic-Delusions-Of-The-Electri",
+				"https://www.youtube.com/watch?v=N2ckU9p1pSo\r"
+			],
+			[
+				"4",
+				"??",
+				"Rage Against The Machine",
+				"Bulls On Parade",
+				"https://www.discogs.com/master/7951-Rage-Against-The-Machine-Evil-Empire",
+				"https://www.youtube.com/watch?v=3L4YrGaR8E4\r"
+			],
+			[
+				"5",
+				"??",
+				"Prong",
+				"Unfortunately",
+				"https://www.discogs.com/master/37580-Prong-Rude-Awakening",
+				"https://www.youtube.com/watch?v=MuEwkbiL9hc\r"
+			],
+			[
+				"6",
+				"??",
+				"Helmet",
+				"Like I Care",
+				"https://www.discogs.com/master/52357-Helmet-Aftertaste",
+				"https://www.youtube.com/watch?v=Vr6p0K9LHCA\r"
+			],
+			[
+				"7",
+				"??",
+				"Prong",
+				"Controller",
+				"https://www.discogs.com/master/37580-Prong-Rude-Awakening",
+				"https://www.youtube.com/watch?v=7Fc3GC30b64\r"
+			],
+			[
+				"8",
+				"??",
+				"Silverchair",
+				"Learn To Hate",
+				"https://www.discogs.com/master/67087-Silverchair-Freak-Show",
+				"https://www.youtube.com/watch?v=Vm4FBsHQJt0\r"
+			],
+			[
+				"9",
+				"??",
+				"White Zombie",
+				"Electric Head Pt. 2",
+				"https://www.discogs.com/master/39780-White-Zombie-Astro-Creep-2000-Songs-Of-Love-Destruction-And-Other-Synthetic-Delusions-Of-The-Electri",
+				"https://www.youtube.com/watch?v=WdYvr2QpC3E\r"
+			],
+			[
+				"10",
+				"Credits",
+				"Jay Reale",
+				"??",
+				"??",
+				"??"
 			]
 		]
 	}
