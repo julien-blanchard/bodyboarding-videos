@@ -3120,6 +3120,130 @@ const data_as_json = [
 		]
 	},
 	{
+		"Title": "Surphytum",
+		"Tags": [
+			"All",
+			"Australia",
+			"Various",
+			"Ian Stewart",
+			"1997"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"Blister",
+				"Please",
+				"https://www.discogs.com/release/8610746-Blister-Busted",
+				"https://www.youtube.com/watch?v=Rrk3oDn2VuA\r"
+			],
+			[
+				"2",
+				"??",
+				"Vent",
+				"H2O",
+				"??",
+				"??\r"
+			],
+			[
+				"3",
+				"Garth McGregor",
+				"Johns Not Mad",
+				"Hoping More But I'm Really Hoping Less",
+				"??",
+				"??\r"
+			],
+			[
+				"4",
+				"Ben Holland",
+				"Headlifter",
+				"PNG",
+				"https://www.discogs.com/release/8047256-Headlifter-Hollows",
+				"https://www.youtube.com/watch?v=BYGgBLIJOQg\r"
+			],
+			[
+				"5",
+				"??",
+				"Wouldland",
+				"Revellin",
+				"??",
+				"??\r"
+			],
+			[
+				"6",
+				"??",
+				"Vent",
+				"Re-Assure",
+				"??",
+				"??\r"
+			],
+			[
+				"7",
+				"French Polynesia",
+				"Vent",
+				"Love",
+				"??",
+				"??\r"
+			],
+			[
+				"8",
+				"??",
+				"Intercooler",
+				"All I Want",
+				"??",
+				"??\r"
+			],
+			[
+				"9",
+				"??",
+				"Johns Not Mad",
+				"Life",
+				"??",
+				"??\r"
+			],
+			[
+				"10",
+				"??",
+				"Blister",
+				"Windsor Beaver",
+				"https://www.discogs.com/release/8610806-Blister-The-Revenge-of-Tommy-Lobster",
+				"https://www.youtube.com/watch?v=LOInNWz_pxw\r"
+			],
+			[
+				"11",
+				"Ben Player",
+				"Mind Riot",
+				"Cage Of Society",
+				"??",
+				"??\r"
+			],
+			[
+				"12",
+				"??",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"13",
+				"??",
+				"Blister",
+				"Paradise",
+				"https://www.discogs.com/release/8610806-Blister-The-Revenge-of-Tommy-Lobster",
+				"https://www.youtube.com/watch?v=P8Pvt0lsikw\r"
+			],
+			[
+				"14",
+				"Credits",
+				"Blister",
+				"Boogie Board Rider",
+				"https://www.discogs.com/release/8610746-Blister-Busted",
+				"https://www.youtube.com/watch?v=geGgPLiw09A\r"
+			]
+		]
+	},
+	{
 		"Title": "50-50",
 		"Tags": [
 			"All",
