@@ -3424,6 +3424,226 @@ const data_as_json = [
 		]
 	},
 	{
+		"Title": "Surphytum 3",
+		"Tags": [
+			"All",
+			"Australia",
+			"Various",
+			"Ian Stewart",
+			"1999"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Toobs - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"2",
+				"World Surfaris - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"3",
+				"Riptide - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"4",
+				"Slap-on - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"5",
+				"Kpaloa - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"6",
+				"The Storm - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"7",
+				"Intro",
+				"Paul Merkyl",
+				"Mocean",
+				"??",
+				"??\r"
+			],
+			[
+				"8",
+				"Opening",
+				"Plummet",
+				"Stubborn Stubborn",
+				"??",
+				"??\r"
+			],
+			[
+				"9",
+				"Adam Keegan",
+				"Bantha Fodder",
+				"Amphetamines",
+				"https://www.discogs.com/release/5895645-Bantha-Fodder-La-Sangre-Del-Vampiro",
+				"https://www.youtube.com/watch?v=38zlgG6Ut8Y\r"
+			],
+			[
+				"10",
+				"Down South",
+				"Godnose",
+				"In the Name Of Protection Part II",
+				"https://www.discogs.com/release/14680662-Godnose-Trucks-Wont-Go",
+				"??\r"
+			],
+			[
+				"11",
+				"Joe Jordanoff",
+				"One Dollar Short",
+				"Fear Of Falling",
+				"https://www.discogs.com/release/418721-One-Dollar-Short-From-The-Start",
+				"https://www.youtube.com/watch?v=M8GSm9mduik\r"
+			],
+			[
+				"12",
+				"French Polynesia",
+				"Buff Tundrel",
+				"Good Faith",
+				"https://www.discogs.com/artist/4411191-Buff-Tundrel",
+				"??\r"
+			],
+			[
+				"13",
+				"Andre Botha",
+				"Girls Germs",
+				"Old Man",
+				"https://www.discogs.com/release/14935210-Girls-Germs-No-More-Mr-Nice-Girl",
+				"https://www.youtube.com/watch?v=ywNtQvJzBx0\r"
+			],
+			[
+				"14",
+				"Newcastle",
+				"One Dollar Short",
+				"Tightrope",
+				"https://www.discogs.com/release/418721-One-Dollar-Short-From-The-Start",
+				"https://www.youtube.com/watch?v=PtIjVHhgqro\r"
+			],
+			[
+				"15",
+				"Chris White",
+				"Paul Merkyl",
+				"Drown",
+				"??",
+				"??\r"
+			],
+			[
+				"16",
+				"Central Coast",
+				"One Dollar Short",
+				"Cartoons & Chalkboards",
+				"https://www.discogs.com/release/418721-One-Dollar-Short-From-The-Start",
+				"https://www.youtube.com/watch?v=E3OWMqWLjFA\r"
+			],
+			[
+				"17",
+				"Ryan Hardy",
+				"The Hunchbacks",
+				"In The Shed",
+				"https://www.discogs.com/master/1448891-The-Hunchbacks-Cant-Help-Feeling",
+				"??\r"
+			],
+			[
+				"18",
+				"West Oz",
+				"Denial",
+				"Again",
+				"??",
+				"??\r"
+			],
+			[
+				"19",
+				"Andrew Lester",
+				"Jesus Sold Acid",
+				"Gun Ho",
+				"https://www.discogs.com/release/12707464-JSA-Jesus-Sold-Acid",
+				"https://www.youtube.com/watch?v=JjBXioZq9Fo\r"
+			],
+			[
+				"20",
+				"Hawaii",
+				"Siris",
+				"Wright 2B Wrong",
+				"https://www.discogs.com/release/25285861-Siris-Crystaleye",
+				"??\r"
+			],
+			[
+				"21",
+				"Aussies In Hawaii",
+				"Grinspoon",
+				"More Than You Are",
+				"https://www.discogs.com/master/1066392-Grinspoon-Best-In-Show",
+				"https://www.youtube.com/watch?v=tlADM9w0HdY\r"
+			],
+			[
+				"22",
+				"Ben Holland",
+				"Victims Of Noah",
+				"The Festering Phallus Of Modern Muzac",
+				"https://www.discogs.com/release/32211300-Victims-Of-Noah-Ohh-The-Humanity",
+				"??\r"
+			],
+			[
+				"23",
+				"On The Road To Nowhere",
+				"Paul Merkyl",
+				"Liquid Gold",
+				"??",
+				"??\r"
+			],
+			[
+				"24",
+				"Indonesia",
+				"Girls Germs",
+				"The Door",
+				"https://www.discogs.com/release/6540102-Various-Brisbane-Calling-Compilation",
+				"??\r"
+			],
+			[
+				"25",
+				"??",
+				"Siris",
+				"Rise Forward",
+				"??",
+				"??\r"
+			],
+			[
+				"26",
+				"Credits",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			]
+		]
+	},
+	{
 		"Title": "50-50",
 		"Tags": [
 			"All",
