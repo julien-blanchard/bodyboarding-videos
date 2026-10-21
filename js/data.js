@@ -336,7 +336,7 @@ const data_as_json = [
 			[
 				"2",
 				"Didgeridoo",
-				"??",
+				"Shane Martin",
 				"??",
 				"??",
 				"??\r"
@@ -2364,10 +2364,10 @@ const data_as_json = [
 			[
 				"1",
 				"Intro",
-				"??",
-				"??",
-				"??",
-				"??\r"
+				"Soul Scream",
+				"Beat Around The Bush",
+				"https://www.discogs.com/release/26848463-Soul-Scream-Mister-Sunshine",
+				"https://www.youtube.com/watch?v=FEj6x6vYzAo\r"
 			],
 			[
 				"2",
@@ -3240,6 +3240,186 @@ const data_as_json = [
 				"Boogie Board Rider",
 				"https://www.discogs.com/release/8610746-Blister-Busted",
 				"https://www.youtube.com/watch?v=geGgPLiw09A\r"
+			]
+		]
+	},
+	{
+		"Title": "Surphytum 2",
+		"Tags": [
+			"All",
+			"Australia",
+			"Various",
+			"Ian Stewart",
+			"1998"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Bad Boy - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"2",
+				"Rheopaipo - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"3",
+				"Balin - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"4",
+				"?? - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"5",
+				"Kpaloa - Ad",
+				"??",
+				"??",
+				"??",
+				"??\r"
+			],
+			[
+				"6",
+				"Opening",
+				"Propellerheads",
+				"Take California",
+				"https://www.discogs.com/master/132207-Propellerheads-Take-California",
+				"https://www.youtube.com/watch?v=81bG15gsl70\r"
+			],
+			[
+				"7",
+				"Ben Holland",
+				"Stoned",
+				"Magic Plan",
+				"https://www.discogs.com/master/958869-Stoned-Eds-Diner",
+				"https://www.youtube.com/watch?v=ztmLVbCByQw\r"
+			],
+			[
+				"8",
+				"Box",
+				"Johns Not Mad",
+				"Confusion",
+				"??",
+				"??\r"
+			],
+			[
+				"9",
+				"??",
+				"The Clams",
+				"Tube",
+				"??",
+				"??\r"
+			],
+			[
+				"10",
+				"Sumatra",
+				"Astroboi",
+				"Inside Your Head",
+				"https://www.discogs.com/release/9358402-Astroboi-Dragonfist",
+				"https://www.youtube.com/watch?v=MRyVOkgl96o\r"
+			],
+			[
+				"11",
+				"Garth McGregor",
+				"Stoned",
+				"Anti-Static",
+				"https://www.discogs.com/master/958869-Stoned-Eds-Diner",
+				"https://www.youtube.com/watch?v=heYoxebbTGY\r"
+			],
+			[
+				"12",
+				"North Of The Border",
+				"Nitro Boy",
+				"Remote",
+				"??",
+				"??\r"
+			],
+			[
+				"13",
+				"Adam Keegan",
+				"Don't Tell Loyd",
+				"Sick",
+				"??",
+				"??\r"
+			],
+			[
+				"14",
+				"The West",
+				"Johns Not Mad",
+				"Lost Ticket To Suddsville",
+				"??",
+				"??\r"
+			],
+			[
+				"15",
+				"Down The Road",
+				"Adhesive",
+				"Conscience",
+				"https://www.discogs.com/master/633400-Adhesive-Sideburner",
+				"https://www.youtube.com/watch?v=AbRtV0qCZd8\r"
+			],
+			[
+				"16",
+				"Courtney McCagh",
+				"Nitro Boy",
+				"Pep",
+				"??",
+				"??\r"
+			],
+			[
+				"17",
+				"Pipe",
+				"Adhesive",
+				"Influence",
+				"https://www.discogs.com/master/633400-Adhesive-Sideburner",
+				"https://www.youtube.com/watch?v=namzqseoaFA\r"
+			],
+			[
+				"18",
+				"??",
+				"Blister",
+				"Follow The Leader",
+				"https://www.discogs.com/release/8610746-Blister-Busted",
+				"https://www.youtube.com/watch?v=eYizz8zqylc\r"
+			],
+			[
+				"19",
+				"Tahiti",
+				"Nitro Boy",
+				"Cosmetics",
+				"??",
+				"??\r"
+			],
+			[
+				"20",
+				"??",
+				"Nitro Boy",
+				"Tomorrow Might Be A Brighter Day",
+				"??",
+				"??\r"
+			],
+			[
+				"21",
+				"Credits",
+				"??",
+				"??",
+				"??",
+				"??\r"
 			]
 		]
 	},
@@ -4268,6 +4448,82 @@ const data_as_json = [
 				"Melancholy Protection",
 				"https://www.discogs.com/master/281953-Millencolin-The-Melancholy-Collection",
 				"https://www.youtube.com/watch?v=qnsngNI-EPo\r"
+			]
+		]
+	},
+	{
+		"Title": "Cave Dwellers",
+		"Tags": [
+			"All",
+			"USA",
+			"Various",
+			"??",
+			"1998"
+		],
+		"Soundtrack": [
+			[
+				"1",
+				"Opening",
+				"Bitch Funky Sex Machine",
+				"Unclean",
+				"https://www.discogs.com/master/760492-Bitch-Funky-Sex-Machine-Love-Bomb",
+				"https://www.youtube.com/watch?v=AwFr9eWrz0A\r"
+			],
+			[
+				"2",
+				"Puerto",
+				"Sugar Ray",
+				"Iron Mic",
+				"https://www.discogs.com/master/209951-Sugar-Ray-Lemonade-Brownies",
+				"https://www.youtube.com/watch?v=FkE1ZmvjP_E\r"
+			],
+			[
+				"3",
+				"Sandy Beach",
+				"Sugar Ray",
+				"Big Black Woman",
+				"https://www.discogs.com/master/209951-Sugar-Ray-Lemonade-Brownies",
+				"https://www.youtube.com/watch?v=Mer9Xvmpsa0\r"
+			],
+			[
+				"4",
+				"The North Shore",
+				"The Nixons",
+				"Head",
+				"https://www.discogs.com/master/238073-The-Nixons-Foma",
+				"https://www.youtube.com/watch?v=kvtYEkqFVyc\r"
+			],
+			[
+				"5",
+				"Hauoli's World",
+				"Earth Crisis",
+				"Wrath Of Sanity",
+				"https://www.discogs.com/master/105447-Earth-Crisis-Destroy-The-Machines",
+				"https://www.youtube.com/watch?v=E-2jLd7KxiI\r"
+			],
+			[
+				"6",
+				"Mike Stewart Is The Man",
+				"The Nixons",
+				"Foma",
+				"https://www.discogs.com/master/238073-The-Nixons-Foma",
+				"https://www.youtube.com/watch?v=1CAb-4Y8U_Q\r"
+			],
+			[
+				"7",
+				"??",
+				"Machines Of Loving Grace",
+				"Perfect Tan",
+				"https://www.discogs.com/master/34665-Machines-Of-Loving-Grace-Concentration",
+				"https://www.youtube.com/watch?v=Zdo-s3tBdXA\r"
+			],
+			[
+				"8",
+				"Credits",
+				"The Nixons",
+				"Foma",
+				"https://www.discogs.com/master/238073-The-Nixons-Foma",
+				"https://www.youtube.com/watch?v=1CAb-4Y8U_Q\r"
 			]
 		]
 	},
